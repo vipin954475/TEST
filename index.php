@@ -53,9 +53,7 @@ hr {
     <hr>
     <p>35 days left</p>
   </div>
-  <div class="bottomleft">
-    <p>Some text</p>
-  </div>
+
 </div>
 
 </body>
