@@ -51,9 +51,9 @@ hr {
   <div class="middle">
     <h1>COMING SOON</h1>
     <hr>
-    <p>35 days left</p>
+    <p>80 days left</p>
   </div>
-
+SAMPLE Content
 </div>
 
 </body>
