@@ -1,3 +1,3 @@
 <html>
-<h3><b>Sample Page</b>/h3>
+  <h3><b><center>Sample Page</center></b></h3>
 </html>
