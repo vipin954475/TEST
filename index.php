@@ -2,7 +2,7 @@
 <html>
 <style>
 body, html {
-  height: 100%;
+  height: 80%;
   margin: 0;
 }
 
@@ -52,7 +52,9 @@ hr {
     <h1>COMING SOON</h1>
     <hr>
     <p>30 days left</p>
- 
+    <hr>Data</hr> 
 
 </body>
 </html>
+
+
