@@ -48,9 +48,10 @@ hr {
   <div class="topleft">
     <p>Logo</p>
   </div>
+<<<<<<< HEAD
   <div class="middle">
     <h1>COMING SOON!</h1>
-    <hr>
+  <hr>
     <p>30 days left</p>
     <hr>Data</hr> 
 
