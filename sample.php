@@ -2,7 +2,7 @@
 <html>
 <style>
 body, html {
-  height: 90%;
+  height: 100%;
   margin: 0;
 }
 
