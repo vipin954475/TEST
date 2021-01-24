@@ -6,6 +6,7 @@ body, html {
   margin: 0;
 }
 
+
 .bgimg {
   background-image: url('/w3images/forestbridge.jpg');
   height: 100%;
